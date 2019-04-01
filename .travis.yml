@@ -14,10 +14,9 @@ cache: bundler
 bundler_args: --without development
 
 rvm:
-- 2.2.10
-- 2.3.7
-- 2.4.4
-- 2.5.1
+  - 2.3.7
+  - 2.4.4
+  - 2.5.1
 env:
   global:
     secure: IKoaAfTsrU1scmRO7LNJ+hVGzVeYrCB8qwr1KK/WiCm6JirAhiwvpf7osaMT6h+QRELSiAay2wPn89FqpZ9wzpL/zh5kpgfI04gnKrD7ZlPiKDPYddt6R4+Z4+LUZ0dkoM//MjRiIKz0wdvgbzn/E8FSpuhh3FeVYzYVTmAfgME=
